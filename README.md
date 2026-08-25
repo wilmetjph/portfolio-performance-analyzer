@@ -2,6 +2,8 @@
 
 A Python and Streamlit application for analyzing a portfolio's historical performance against a selected benchmark.
 
+[Open the Portfolio Performance Analyzer](https://wilmet-portfolio-analyzer.streamlit.app)
+
 ## Features
 
 - Upload historical asset prices from a CSV file
