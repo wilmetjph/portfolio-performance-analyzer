@@ -58,3 +58,7 @@ portfolio-performance-analyzer/
 - Tracking error and information ratio
 - Additional charts and reporting options
 - More flexible date-column selection
+
+## Live application
+
+[Open Portfolio Decision Support](https://portfolio-decision-support.streamlit.app)
